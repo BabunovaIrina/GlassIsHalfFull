@@ -1,6 +1,5 @@
-public class Main {
+public class Glass {
     public static void main(String[] args) {
-
         final int volumeGlassMl = 230;
         System.out.println("Объем стакана - " + volumeGlassMl + " мл");
 
